@@ -41,7 +41,7 @@ To do this:
 
 * Install ImageMagick: [https://www.imagemagick.org/](https://www.imagemagick.org/)
 
-* Install Node: [https://nodejs.org/](https://www.imagemagick.org/)
+* Install Node: [https://nodejs.org/](https://nodejs.org/)
 
 * From the project's root directory, run:
 
